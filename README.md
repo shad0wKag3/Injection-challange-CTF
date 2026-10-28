@@ -60,7 +60,7 @@ Tersedia beberapa cara untuk menjalankan lab ini. Sangat disarankan menggunakan 
 
 ---
 
-## 🚩 Konfigurasi Flag
+##  Konfigurasi Flag
 Isi file `flag.txt` sebelum mem-build image Docker jika ingin mengganti flag:
 ```
 NCS{1nj3K_1nj3K_4j4}
