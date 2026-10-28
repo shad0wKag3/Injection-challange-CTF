@@ -4,7 +4,7 @@ Lab CTF kategori Web Exploitation (Command Injection & SSTI).
 
 ---
 
-## 🚀 Cara Menjalankan Lab
+##  Cara Menjalankan Lab
 
 Tersedia beberapa cara untuk menjalankan lab ini. Sangat disarankan menggunakan **Docker** atau **Docker Compose** agar lingkungan terisolasi dengan aman.
 
